@@ -1,5 +1,5 @@
 # OpenMP Training
-This folder contains the required material to get a beginner level knowledge in OpenMP. The last three are topics are Advanced topics. OpenMP Training modules are prepared by [Mr. Joseph John](https://josephjohnjj.github.io/)
+This folder contains the required material to get a beginner level knowledge in OpenMP. The last three are topics are Advanced topics. OpenMP Training modules are prepared by [Mr. Joseph John](https://github.com/josephjohnjj)
 ## Sections
 
 | Topic                                                                 | Target Audience       |
